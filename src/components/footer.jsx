@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 // import { FaLinkedin, FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa';
 import { social } from './data';
 
