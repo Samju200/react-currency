@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//Samju200.github.io/react-currency/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/http//Samju200.github.io/react-currency/static/js/main.148a000f.chunk.js",
+    "main.js.map": "/http//Samju200.github.io/react-currency/static/js/main.148a000f.chunk.js.map",
+    "runtime-main.js": "/http//Samju200.github.io/react-currency/static/js/runtime-main.1deb9492.js",
+    "runtime-main.js.map": "/http//Samju200.github.io/react-currency/static/js/runtime-main.1deb9492.js.map",
+    "static/js/2.280171b3.chunk.js": "/http//Samju200.github.io/react-currency/static/js/2.280171b3.chunk.js",
+    "static/js/2.280171b3.chunk.js.map": "/http//Samju200.github.io/react-currency/static/js/2.280171b3.chunk.js.map",
+    "static/js/3.7aa2d325.chunk.js": "/http//Samju200.github.io/react-currency/static/js/3.7aa2d325.chunk.js",
+    "static/js/3.7aa2d325.chunk.js.map": "/http//Samju200.github.io/react-currency/static/js/3.7aa2d325.chunk.js.map",
+    "index.html": "/http//Samju200.github.io/react-currency/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/http//Samju200.github.io/react-currency/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.280171b3.chunk.js.LICENSE.txt": "/http//Samju200.github.io/react-currency/static/js/2.280171b3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/http//Samju200.github.io/react-currency/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1deb9492.js",
+    "static/js/2.280171b3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.148a000f.chunk.js"
+  ]
+}
