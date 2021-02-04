@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/http//Samju200.github.io/react-currency/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/http//Samju200.github.io/react-currency/static/js/main.148a000f.chunk.js",
-    "main.js.map": "/http//Samju200.github.io/react-currency/static/js/main.148a000f.chunk.js.map",
-    "runtime-main.js": "/http//Samju200.github.io/react-currency/static/js/runtime-main.1deb9492.js",
-    "runtime-main.js.map": "/http//Samju200.github.io/react-currency/static/js/runtime-main.1deb9492.js.map",
-    "static/js/2.280171b3.chunk.js": "/http//Samju200.github.io/react-currency/static/js/2.280171b3.chunk.js",
-    "static/js/2.280171b3.chunk.js.map": "/http//Samju200.github.io/react-currency/static/js/2.280171b3.chunk.js.map",
-    "static/js/3.7aa2d325.chunk.js": "/http//Samju200.github.io/react-currency/static/js/3.7aa2d325.chunk.js",
-    "static/js/3.7aa2d325.chunk.js.map": "/http//Samju200.github.io/react-currency/static/js/3.7aa2d325.chunk.js.map",
-    "index.html": "/http//Samju200.github.io/react-currency/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/http//Samju200.github.io/react-currency/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.280171b3.chunk.js.LICENSE.txt": "/http//Samju200.github.io/react-currency/static/js/2.280171b3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/http//Samju200.github.io/react-currency/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-currencyg/static/css/main.c83f01a8.chunk.css",
+    "main.js": "/react-currencyg/static/js/main.cc9cf06e.chunk.js",
+    "main.js.map": "/react-currencyg/static/js/main.cc9cf06e.chunk.js.map",
+    "runtime-main.js": "/react-currencyg/static/js/runtime-main.1a72b00f.js",
+    "runtime-main.js.map": "/react-currencyg/static/js/runtime-main.1a72b00f.js.map",
+    "static/js/2.ef322172.chunk.js": "/react-currencyg/static/js/2.ef322172.chunk.js",
+    "static/js/2.ef322172.chunk.js.map": "/react-currencyg/static/js/2.ef322172.chunk.js.map",
+    "static/js/3.a37893c1.chunk.js": "/react-currencyg/static/js/3.a37893c1.chunk.js",
+    "static/js/3.a37893c1.chunk.js.map": "/react-currencyg/static/js/3.a37893c1.chunk.js.map",
+    "index.html": "/react-currencyg/index.html",
+    "static/css/main.c83f01a8.chunk.css.map": "/react-currencyg/static/css/main.c83f01a8.chunk.css.map",
+    "static/js/2.ef322172.chunk.js.LICENSE.txt": "/react-currencyg/static/js/2.ef322172.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/react-currencyg/static/media/jinyun-xBuu23uxarU-unsplash.19589a70.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1deb9492.js",
-    "static/js/2.280171b3.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.148a000f.chunk.js"
+    "static/js/runtime-main.1a72b00f.js",
+    "static/js/2.ef322172.chunk.js",
+    "static/css/main.c83f01a8.chunk.css",
+    "static/js/main.cc9cf06e.chunk.js"
   ]
 }
